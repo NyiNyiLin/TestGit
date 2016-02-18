@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void testing(){
-        String st="Ha HA Ha Testing";
+        String st="Ha HA Ha Testing  This is branch 2";
+
     }
 }
