@@ -13,4 +13,7 @@ public class MainActivity extends AppCompatActivity {
     public void testing(){
         String st="Ha HA Ha Testing";
     }
+    public void newBranch(){
+
+    }
 }
